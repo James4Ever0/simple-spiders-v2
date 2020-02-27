@@ -1,2 +1,2 @@
-# extract-api
-extract resource and provide api
+# my-api
+some api for fun
